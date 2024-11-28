@@ -1,4 +1,4 @@
-export default function coloGame (param) {
+export default function colorGame (param) {
     if(param.health > 50) {
         return "healthy";
     }
